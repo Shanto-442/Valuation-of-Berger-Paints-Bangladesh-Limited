@@ -1,0 +1,1 @@
+#These are the valuation files I, along with my team, calculated and created for the Berger Paints Bangladesh Limited. This was as requirements for the step 2 and step 3 of the CFA Institute Research Challenge 2024-25.  
